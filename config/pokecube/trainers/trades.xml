@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AllTrades>
+ <Trades template="default">
+  <Trade chance="1">
+   <Sell id="pokecube" n="8"/>
+   <Buy id="minecraft:emerald" n="2"/>
+  </Trade>
+  <Trade chance="0.5">
+   <Sell id="greatcube" n="8"/>
+   <Buy id="minecraft:emerald" n="4"/>
+  </Trade>
+  <Trade chance="0.25">
+   <Sell id="ultracube" n="8"/>
+   <Buy id="minecraft:emerald" n="8"/>
+  </Trade>
+  <Trade chance="0.25">
+   <Sell id="revive" n="2"/>
+   <Buy id="minecraft:emerald" n="2"/>
+  </Trade>
+  <Trade chance="0.05" custom="allTMs">
+   <Buy id="minecraft:emerald" n="16"/>
+  </Trade>
+  <Trade chance="0.05" custom="allMegas">
+   <Buy id="minecraft:emerald" n="16"/>
+  </Trade>
+  <Trade chance="0.05" custom="allGenericHeld">
+   <Buy id="minecraft:emerald" n="16"/>
+  </Trade>
+  <Trade chance="0.025" custom="sellRandomBadge">
+   <Buy id="minecraft:emerald" n="32"/>
+  </Trade>
+ </Trades>
+ <Trades template="merchant">
+  <Trade chance="1">
+   <Sell id="pokecube" n="4"/>
+   <Buy id="minecraft:emerald" n="1"/>
+  </Trade>
+  <Trade chance="1">
+   <Sell id="greatcube" n="2"/>
+   <Buy id="minecraft:emerald" n="1"/>
+  </Trade>
+  <Trade chance="1">
+   <Sell id="ultracube" n="1"/>
+   <Buy id="minecraft:emerald" n="1"/>
+  </Trade>
+  <Trade chance="1">
+   <Sell id="mastercube"/>
+   <Buy id="minecraft:emerald_block" n="64"/>
+   <Buy id="minecraft:emerald_block" n="64"/>
+  </Trade>
+  <Trade chance="1">
+   <Sell id="revive" n="2"/>
+   <Buy id="minecraft:emerald" n="1"/>
+  </Trade>
+  <Trade chance="0.8">
+   <Sell id="pokecube_legends:zygardecube"/>
+   <Buy id="minecraft:emerald" n="54"/>
+  </Trade>
+  <Trade chance="0.1">
+   <Sell id="pokecube_legends:grayorb"/>
+   <Buy id="minecraft:emerald" n="34"/>
+  </Trade>
+  <Trade chance="0.3">
+   <Sell id="pokecube_legends:prisonbottle"/>
+   <Buy id="minecraft:emerald" n="54"/>
+  </Trade>
+  <Trade chance="0.4">
+   <Sell id="pokecube_legends:icecore"/>
+   <Buy id="minecraft:emerald" n="54"/>
+  </Trade>
+  <Trade chance="0.4">
+   <Sell id="pokecube_legends:steelcore"/>
+   <Buy id="minecraft:emerald" n="54"/>
+  </Trade>
+  <Trade chance="0.4">
+   <Sell id="pokecube_legends:rockcore"/>
+   <Buy id="minecraft:emerald" n="54"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:griseousorb"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:meteorite"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:azure_flute"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:gracidea"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:darkstone"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:lightstone"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:magmacore"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:n_moon"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:n_sun"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:mystante"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:revealglass"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:adamantorb"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:dna_splicera"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:dna_splicerb"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:lustrousorb"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="0.2">
+   <Sell id="pokecube_legends:regisorb"/>
+   <Buy id="minecraft:emerald" n="40"/>
+  </Trade>
+  <Trade chance="1" custom="allMegas">
+   <Buy id="minecraft:emerald" n="16"/>
+  </Trade>
+  <Trade chance="1" custom="allVitamins">
+   <Buy id="minecraft:emerald" n="8"/>
+  </Trade>
+  <Trade chance="0.005" custom="allTMs">
+   <Buy id="minecraft:emerald" n="16"/>
+  </Trade>
+  <Trade chance="0.1">
+   <Sell id="pokecube_adventures:exp_share" n="1"/>
+   <Buy id="minecraft:emerald" n="64"/>
+  </Trade>
+  <Trade chance="1">
+   <Sell id="shiny_charm"/>
+   <Buy id="minecraft:emerald_block" n="64"/>
+   <Buy id="minecraft:emerald_block" n="64"/>
+  </Trade>
+  <Trade chance="0.05" custom="buyRandomBadge">
+   <Sell id="minecraft:emerald" n="16"/>
+  </Trade>
+  <Trade chance="0.5" custom="allGenericHeld">
+   <Buy id="minecraft:emerald" n="16"/>
+  </Trade>
+ </Trades>
+</AllTrades>

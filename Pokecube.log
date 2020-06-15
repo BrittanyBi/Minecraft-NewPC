@@ -1,0 +1,49 @@
+06-14 18:31:02 [INFO] No Custom Dimensions file found: D:\Minecraft Worlds\NewPCWorld\.\config\pokecube\structures\custom_dims.json If you make one, it will allow specifying custom dimensions and worldgen.
+06-14 18:31:02 [INFO] Loaded 891 by number, and 1156 by formes from databases.
+06-14 18:31:03 [INFO] Registered 1113
+06-14 18:31:03 [INFO] Set MODID: pokecube.modelloader.ModPokecubeML@3ce2c2c5 null
+06-14 18:31:03 [INFO] Set MODID: pokecube.modelloader.ModPokecubeML@3ce2c2c5 null
+06-14 18:31:03 [INFO] Set MODID: pokecube.modelloader.ModPokecubeML@3ce2c2c5 null
+06-14 18:31:03 [INFO] Set MODID: pokecube.modelloader.ModPokecubeML@3ce2c2c5 null
+06-14 18:31:03 [INFO] Set MODID: pokecube.modelloader.ModPokecubeML@3ce2c2c5 null
+06-14 18:31:03 [INFO] Set MODID: pokecube.modelloader.ModPokecubeML@3ce2c2c5 null
+06-14 18:31:03 [INFO] Set MODID: pokecube.modelloader.ModPokecubeML@3ce2c2c5 null
+06-14 18:31:03 [INFO] Set MODID: pokecube.modelloader.ModPokecubeML@3ce2c2c5 null
+06-14 18:31:03 [INFO] Loaded 872 Pokemon and 1113 Formes
+06-14 18:31:54 [INFO] Registered 33 Legendary Conditions.
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.poisontoxic
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.rocksmash
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.acidarmor
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.fly
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.vicegrip
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.razorwind
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.cut
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.megaattack
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.dig
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.gustwind
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.charm
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.withdraw
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.dive
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.aurorabeam
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.metalclaw
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.iceball
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.icebreak
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.unknown
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.sacredfire
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.flamewheel
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.woodenhammer
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.thunder
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.bubbleattack
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.waterpulse
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.rocktomb
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.thunderwave
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.slash
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.safeguard
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.thunderend
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.ember
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.earthquake
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.thunderbolt
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.scratch
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.surf
+06-14 18:31:54 [INFO] Registering Sound Event: pokecube:moves.payday
